@@ -1,6 +1,6 @@
 # Fetch Rewards Coding Exercise-Data Analyst
 
-In this exercise, I worked with the brands.json, users.json, and receipts.json to build a New Structured Relational Data Model, write queries to answers predetermined questions from a business stakeholder, evaluate Data Quality Issues, and communicate with Stakeholders.
+In this exercise, I worked with the brands.json, users.json, and receipts.json to build a new structured relational data model, write queries to answers predetermined questions from a business stakeholder, evaluate Data Quality Issues, and communicate with Stakeholders.
 
 1. Review unstructured JSON data and diagram a new structured relational data model -> ER Diagram.pdf
 2. Generate a query that answers a predetermined business question -> SQL query.pdf (MySQL)
